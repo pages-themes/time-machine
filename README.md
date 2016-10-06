@@ -2,7 +2,7 @@
 
 Time-machine is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
-You can preview the theme at http://pages-theme.github.io/time-machine.
+You can preview the theme at http://pages-themes.github.io/time-machine.
 
 ### Usage
 
