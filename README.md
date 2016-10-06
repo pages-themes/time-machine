@@ -1,4 +1,4 @@
-# Time-machine `jekyll-theme-time-machine` gem
+# `jekyll-theme-time-machine` gem
 
 Time-machine is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
