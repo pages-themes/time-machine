@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-time-machine"
   s.version       = "0.0.1"
   s.authors       = ["Please come forward"]
-  s.email         = ["support@github.com"]
+  s.email         = ["opensource+jekyll-theme-time-machine@github.com"]
   s.homepage      = "https://github.com/pages-themes/time-machine"
   s.summary       = "Dinky is a theme for GitHub Pages"
 
