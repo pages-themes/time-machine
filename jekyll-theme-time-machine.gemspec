@@ -3,6 +3,7 @@
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-time-machine"
   s.version       = "0.0.1"
+  s.license       = "CC0-1.0"
   s.authors       = ["Jon Rohan", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-time-machine@github.com"]
   s.homepage      = "https://github.com/pages-themes/time-machine"
