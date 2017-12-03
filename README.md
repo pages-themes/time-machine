@@ -75,7 +75,7 @@ The Time machine theme is intended to make it quick and easy for GitHub Pages us
 
 ## Contributing
 
-Interested in contributing to Time machine? We'd love your help. Time machine is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](CONTRIBUTING.md) for instructions on how to contribute.
+Interested in contributing to Time machine? We'd love your help. Time machine is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
 ### Previewing the theme locally
 
