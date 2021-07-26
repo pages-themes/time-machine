@@ -1,6 +1,6 @@
 # The Time machine theme
 
-[![Build Status](https://travis-ci.org/pages-themes/time-machine.svg?branch=master)](https://travis-ci.org/pages-themes/time-machine) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
+[Build Status](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
 
 *Time machine is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/time-machine), or even [use it today](#usage).*
 
