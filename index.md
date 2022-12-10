@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hey Classmates! The site is very basic right now. I am open to suggestions on how we should configure this site.
+test! Hey Classmates! The site is very basic right now. I am open to suggestions on how we should configure this site.
 
 [Link to another page](./another-page.html).
 
