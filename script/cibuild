@@ -3,7 +3,7 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri
+bundle exec htmlproofer ./_site --check-html --check-sri --typhoeus-config='{"headers":{"User-Agent":"Mozilla/5.0 (compatible; My New User-Agent)"}}'
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-time-machine.gemspec
